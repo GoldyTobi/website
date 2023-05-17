@@ -60,6 +60,10 @@ system:
       material: Pt
       crystallographic orientation: 'poly'
       preparation procedure:
+        description:
+          - annealing of the WE
+          - cooling in a controlled atmosphere
+          - protecting the WE surface with a droplet of UHP water
       shape:
         type: beat
         height:
